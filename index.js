@@ -24,6 +24,6 @@ for(let  i = 0; i < arr.length; i ++){
   //console.log(arr[i].pass);
 
   if(arr[i].costumer =="user"){
-    //console.log(arr[i]);
+    ///console.log(arr[i]);
   }
 }
